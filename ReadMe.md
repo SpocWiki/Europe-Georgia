@@ -17,8 +17,8 @@ id: Georgia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Georgia.Europe//
-markerFolder: ./Georgia.Europe//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Georgia] 
