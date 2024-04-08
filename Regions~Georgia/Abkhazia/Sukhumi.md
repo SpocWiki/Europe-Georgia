@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::41] 
-[geo-lat::42.98] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::41] 
+[has_place_latitude::42.98] 
 [name::Suchumkale] 
 State ::  
 Country :: [[Russia]]  

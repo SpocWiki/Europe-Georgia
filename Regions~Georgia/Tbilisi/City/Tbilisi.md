@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::44.78333] 
-[geo-lat::41.71667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::44.78333] 
+[has_place_latitude::41.71667] 
 [name::Tbilisi] 
 State ::  
 Country :: [[../../Georgia~Europe]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::45.47] 
-[geo-lat::41.92] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::45.47] 
+[has_place_latitude::41.92] 
 [name::Telaw] 
 State ::  
 Country :: [[Russia]]  

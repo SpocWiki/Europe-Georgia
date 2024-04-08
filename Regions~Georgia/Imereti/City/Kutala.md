@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::42.67] 
-[geo-lat::42.27] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::42.67] 
+[has_place_latitude::42.27] 
 [name::Kutala] 
 State ::  
 Country :: [[Russia]]  

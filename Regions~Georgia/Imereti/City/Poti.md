@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::42.641] 
-[geo-lat::42.15] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::42.641] 
+[has_place_latitude::42.15] 
 [name::Poti] 
 State ::  
 Country :: [[Russia]]  

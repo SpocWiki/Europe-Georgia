@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::42] 
-[geo-lat::41.92] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::42] 
+[has_place_latitude::41.92] 
 [name::Orughety] 
 State ::  
 Country :: [[Russia]]  
