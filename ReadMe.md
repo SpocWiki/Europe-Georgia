@@ -27,7 +27,7 @@ markerFolder: .//
 [Area-Land::0] 
 Continent :: [[Europe]]  
 [VehicleCode::GEO] 
-Capital :: [[Tbilisi]]  
+Capital :: [[Regions~Georgia/Tbilisi]]  
 ![[Coat_of_arms_of_Georgia.svg|350]] 
 ![[Anthem-Georgia.mp3]] 
 ![[Flag_of_Georgia.svg|350]] 
@@ -41,7 +41,7 @@ Capital :: [[Tbilisi]]
 
 
 ## Confidential Links & Embeds: 
-- [[Georgia.Europe|Georgia.Europe]] 
+- [[../Georgia,Europe|Georgia,Europe]] 
 - [[../../../../../_internal/geo/Continent/Europe/Europe~East/Georgia.Europe.internal|Georgia.Europe.internal]] 
 - [[../../../../../_protect/geo/Continent/Europe/Europe~East/Georgia.Europe.protect|Georgia.Europe.protect]] 
 - [[../../../../../_private/geo/Continent/Europe/Europe~East/Georgia.Europe.private|Georgia.Europe.private]] 
