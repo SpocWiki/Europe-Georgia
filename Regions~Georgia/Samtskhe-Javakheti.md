@@ -41,15 +41,17 @@ markerFolder: ./Samtskhe-Javakheti/
 
 ## Confidential Links & Embeds: 
 
-### [Samtskhe-Javakheti.public](/_public/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaSamtskhe-Javakheti.public.md) 
+### [Samtskhe-Javakheti](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti.md) 
 
-### [Samtskhe-Javakheti.internal](/_internal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaSamtskhe-Javakheti.internal.md) 
+### [Samtskhe-Javakheti.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti.public.md) 
 
-### [Samtskhe-Javakheti.protect](/_protect/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaSamtskhe-Javakheti.protect.md) 
+### [Samtskhe-Javakheti.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti.internal.md) 
 
-### [Samtskhe-Javakheti.private](/_private/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaSamtskhe-Javakheti.private.md) 
+### [Samtskhe-Javakheti.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti.protect.md) 
 
-### [Samtskhe-Javakheti.personal](/_personal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaSamtskhe-Javakheti.personal.md) 
+### [Samtskhe-Javakheti.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti.private.md) 
 
-### [Samtskhe-Javakheti.secret](/_secret/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaSamtskhe-Javakheti.secret.md)
+### [Samtskhe-Javakheti.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti.personal.md) 
+
+### [Samtskhe-Javakheti.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti.secret.md)
 

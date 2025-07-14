@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Orughety.public](/_public/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Guria\CityOrughety.public.md) 
+### [Orughety](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria/City/Orughety.md) 
 
-### [Orughety.internal](/_internal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Guria\CityOrughety.internal.md) 
+### [Orughety.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria/City/Orughety.public.md) 
 
-### [Orughety.protect](/_protect/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Guria\CityOrughety.protect.md) 
+### [Orughety.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria/City/Orughety.internal.md) 
 
-### [Orughety.private](/_private/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Guria\CityOrughety.private.md) 
+### [Orughety.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria/City/Orughety.protect.md) 
 
-### [Orughety.personal](/_personal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Guria\CityOrughety.personal.md) 
+### [Orughety.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria/City/Orughety.private.md) 
 
-### [Orughety.secret](/_secret/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Guria\CityOrughety.secret.md)
+### [Orughety.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria/City/Orughety.personal.md) 
+
+### [Orughety.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria/City/Orughety.secret.md)
 

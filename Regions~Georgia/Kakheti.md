@@ -41,15 +41,17 @@ markerFolder: ./Kakheti/
 
 ## Confidential Links & Embeds: 
 
-### [Kakheti.public](/_public/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaKakheti.public.md) 
+### [Kakheti](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Kakheti.md) 
 
-### [Kakheti.internal](/_internal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaKakheti.internal.md) 
+### [Kakheti.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Kakheti.public.md) 
 
-### [Kakheti.protect](/_protect/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaKakheti.protect.md) 
+### [Kakheti.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Kakheti.internal.md) 
 
-### [Kakheti.private](/_private/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaKakheti.private.md) 
+### [Kakheti.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Kakheti.protect.md) 
 
-### [Kakheti.personal](/_personal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaKakheti.personal.md) 
+### [Kakheti.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Kakheti.private.md) 
 
-### [Kakheti.secret](/_secret/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaKakheti.secret.md)
+### [Kakheti.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Kakheti.personal.md) 
+
+### [Kakheti.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Kakheti.secret.md)
 

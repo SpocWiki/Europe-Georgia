@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Poti.public](/_public/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Imereti\CityPoti.public.md) 
+### [Poti](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Poti.md) 
 
-### [Poti.internal](/_internal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Imereti\CityPoti.internal.md) 
+### [Poti.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Poti.public.md) 
 
-### [Poti.protect](/_protect/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Imereti\CityPoti.protect.md) 
+### [Poti.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Poti.internal.md) 
 
-### [Poti.private](/_private/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Imereti\CityPoti.private.md) 
+### [Poti.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Poti.protect.md) 
 
-### [Poti.personal](/_personal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Imereti\CityPoti.personal.md) 
+### [Poti.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Poti.private.md) 
 
-### [Poti.secret](/_secret/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Imereti\CityPoti.secret.md)
+### [Poti.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Poti.personal.md) 
+
+### [Poti.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Poti.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Abbas-Tourmau.public](/_public/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Samtskhe-Javakheti\CityAbbas-Tourmau.public.md) 
+### [Abbas-Tourmau](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti/City/Abbas-Tourmau.md) 
 
-### [Abbas-Tourmau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Samtskhe-Javakheti\CityAbbas-Tourmau.internal.md) 
+### [Abbas-Tourmau.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti/City/Abbas-Tourmau.public.md) 
 
-### [Abbas-Tourmau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Samtskhe-Javakheti\CityAbbas-Tourmau.protect.md) 
+### [Abbas-Tourmau.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti/City/Abbas-Tourmau.internal.md) 
 
-### [Abbas-Tourmau.private](/_private/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Samtskhe-Javakheti\CityAbbas-Tourmau.private.md) 
+### [Abbas-Tourmau.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti/City/Abbas-Tourmau.protect.md) 
 
-### [Abbas-Tourmau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Samtskhe-Javakheti\CityAbbas-Tourmau.personal.md) 
+### [Abbas-Tourmau.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti/City/Abbas-Tourmau.private.md) 
 
-### [Abbas-Tourmau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Samtskhe-Javakheti\CityAbbas-Tourmau.secret.md)
+### [Abbas-Tourmau.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti/City/Abbas-Tourmau.personal.md) 
+
+### [Abbas-Tourmau.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti/City/Abbas-Tourmau.secret.md)
 

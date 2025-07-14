@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sukhumi.public](/_public/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Abkhazia\CitySukhumi.public.md) 
+### [Sukhumi](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia/City/Sukhumi.md) 
 
-### [Sukhumi.internal](/_internal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Abkhazia\CitySukhumi.internal.md) 
+### [Sukhumi.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia/City/Sukhumi.public.md) 
 
-### [Sukhumi.protect](/_protect/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Abkhazia\CitySukhumi.protect.md) 
+### [Sukhumi.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia/City/Sukhumi.internal.md) 
 
-### [Sukhumi.private](/_private/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Abkhazia\CitySukhumi.private.md) 
+### [Sukhumi.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia/City/Sukhumi.protect.md) 
 
-### [Sukhumi.personal](/_personal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Abkhazia\CitySukhumi.personal.md) 
+### [Sukhumi.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia/City/Sukhumi.private.md) 
 
-### [Sukhumi.secret](/_secret/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Abkhazia\CitySukhumi.secret.md)
+### [Sukhumi.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia/City/Sukhumi.personal.md) 
+
+### [Sukhumi.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia/City/Sukhumi.secret.md)
 

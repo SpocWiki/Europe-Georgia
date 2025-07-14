@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kutala.public](/_public/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Imereti\CityKutala.public.md) 
+### [Kutala](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Kutala.md) 
 
-### [Kutala.internal](/_internal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Imereti\CityKutala.internal.md) 
+### [Kutala.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Kutala.public.md) 
 
-### [Kutala.protect](/_protect/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Imereti\CityKutala.protect.md) 
+### [Kutala.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Kutala.internal.md) 
 
-### [Kutala.private](/_private/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Imereti\CityKutala.private.md) 
+### [Kutala.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Kutala.protect.md) 
 
-### [Kutala.personal](/_personal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Imereti\CityKutala.personal.md) 
+### [Kutala.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Kutala.private.md) 
 
-### [Kutala.secret](/_secret/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Imereti\CityKutala.secret.md)
+### [Kutala.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Kutala.personal.md) 
+
+### [Kutala.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Kutala.secret.md)
 

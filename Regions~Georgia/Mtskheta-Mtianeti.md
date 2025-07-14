@@ -41,15 +41,17 @@ markerFolder: ./Mtskheta-Mtianeti/
 
 ## Confidential Links & Embeds: 
 
-### [Mtskheta-Mtianeti.public](/_public/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaMtskheta-Mtianeti.public.md) 
+### [Mtskheta-Mtianeti](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Mtskheta-Mtianeti.md) 
 
-### [Mtskheta-Mtianeti.internal](/_internal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaMtskheta-Mtianeti.internal.md) 
+### [Mtskheta-Mtianeti.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Mtskheta-Mtianeti.public.md) 
 
-### [Mtskheta-Mtianeti.protect](/_protect/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaMtskheta-Mtianeti.protect.md) 
+### [Mtskheta-Mtianeti.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Mtskheta-Mtianeti.internal.md) 
 
-### [Mtskheta-Mtianeti.private](/_private/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaMtskheta-Mtianeti.private.md) 
+### [Mtskheta-Mtianeti.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Mtskheta-Mtianeti.protect.md) 
 
-### [Mtskheta-Mtianeti.personal](/_personal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaMtskheta-Mtianeti.personal.md) 
+### [Mtskheta-Mtianeti.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Mtskheta-Mtianeti.private.md) 
 
-### [Mtskheta-Mtianeti.secret](/_secret/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaMtskheta-Mtianeti.secret.md)
+### [Mtskheta-Mtianeti.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Mtskheta-Mtianeti.personal.md) 
+
+### [Mtskheta-Mtianeti.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Mtskheta-Mtianeti.secret.md)
 

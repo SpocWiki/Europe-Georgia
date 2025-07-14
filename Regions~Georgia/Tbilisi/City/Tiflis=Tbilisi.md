@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tiflis=Tbilisi.public](/_public/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Tbilisi\CityTiflis=Tbilisi.public.md) 
+### [Tiflis=Tbilisi](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tiflis=Tbilisi.md) 
 
-### [Tiflis=Tbilisi.internal](/_internal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Tbilisi\CityTiflis=Tbilisi.internal.md) 
+### [Tiflis=Tbilisi.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tiflis=Tbilisi.public.md) 
 
-### [Tiflis=Tbilisi.protect](/_protect/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Tbilisi\CityTiflis=Tbilisi.protect.md) 
+### [Tiflis=Tbilisi.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tiflis=Tbilisi.internal.md) 
 
-### [Tiflis=Tbilisi.private](/_private/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Tbilisi\CityTiflis=Tbilisi.private.md) 
+### [Tiflis=Tbilisi.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tiflis=Tbilisi.protect.md) 
 
-### [Tiflis=Tbilisi.personal](/_personal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Tbilisi\CityTiflis=Tbilisi.personal.md) 
+### [Tiflis=Tbilisi.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tiflis=Tbilisi.private.md) 
 
-### [Tiflis=Tbilisi.secret](/_secret/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Tbilisi\CityTiflis=Tbilisi.secret.md)
+### [Tiflis=Tbilisi.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tiflis=Tbilisi.personal.md) 
+
+### [Tiflis=Tbilisi.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tiflis=Tbilisi.secret.md)
 

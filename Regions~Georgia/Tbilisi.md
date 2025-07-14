@@ -41,15 +41,17 @@ markerFolder: ./Tbilisi/
 
 ## Confidential Links & Embeds: 
 
-### [Tbilisi.public](/_public/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaTbilisi.public.md) 
+### [Tbilisi](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi.md) 
 
-### [Tbilisi.internal](/_internal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaTbilisi.internal.md) 
+### [Tbilisi.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi.public.md) 
 
-### [Tbilisi.protect](/_protect/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaTbilisi.protect.md) 
+### [Tbilisi.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi.internal.md) 
 
-### [Tbilisi.private](/_private/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaTbilisi.private.md) 
+### [Tbilisi.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi.protect.md) 
 
-### [Tbilisi.personal](/_personal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaTbilisi.personal.md) 
+### [Tbilisi.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi.private.md) 
 
-### [Tbilisi.secret](/_secret/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaTbilisi.secret.md)
+### [Tbilisi.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi.personal.md) 
+
+### [Tbilisi.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gorio.public](/_public/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Shida_Kartli\CityGorio.public.md) 
+### [Gorio](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli/City/Gorio.md) 
 
-### [Gorio.internal](/_internal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Shida_Kartli\CityGorio.internal.md) 
+### [Gorio.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli/City/Gorio.public.md) 
 
-### [Gorio.protect](/_protect/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Shida_Kartli\CityGorio.protect.md) 
+### [Gorio.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli/City/Gorio.internal.md) 
 
-### [Gorio.private](/_private/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Shida_Kartli\CityGorio.private.md) 
+### [Gorio.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli/City/Gorio.protect.md) 
 
-### [Gorio.personal](/_personal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Shida_Kartli\CityGorio.personal.md) 
+### [Gorio.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli/City/Gorio.private.md) 
 
-### [Gorio.secret](/_secret/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Shida_Kartli\CityGorio.secret.md)
+### [Gorio.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli/City/Gorio.personal.md) 
+
+### [Gorio.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli/City/Gorio.secret.md)
 

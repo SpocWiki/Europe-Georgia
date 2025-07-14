@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\Europe\Europe~East\Georgia,EuropeLicense.public.md) 
+### [License](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\Europe\Europe~East\Georgia,EuropeLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\Europe\Europe~East\Georgia,EuropeLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\Europe\Europe~East\Georgia,EuropeLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\Europe\Europe~East\Georgia,EuropeLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\Europe\Europe~East\Georgia,EuropeLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/License.secret.md)
 

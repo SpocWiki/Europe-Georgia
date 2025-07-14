@@ -41,15 +41,17 @@ markerFolder: ./Ajaria/
 
 ## Confidential Links & Embeds: 
 
-### [Ajaria.public](/_public/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaAjaria.public.md) 
+### [Ajaria](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Ajaria.md) 
 
-### [Ajaria.internal](/_internal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaAjaria.internal.md) 
+### [Ajaria.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Ajaria.public.md) 
 
-### [Ajaria.protect](/_protect/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaAjaria.protect.md) 
+### [Ajaria.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Ajaria.internal.md) 
 
-### [Ajaria.private](/_private/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaAjaria.private.md) 
+### [Ajaria.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Ajaria.protect.md) 
 
-### [Ajaria.personal](/_personal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaAjaria.personal.md) 
+### [Ajaria.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Ajaria.private.md) 
 
-### [Ajaria.secret](/_secret/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaAjaria.secret.md)
+### [Ajaria.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Ajaria.personal.md) 
+
+### [Ajaria.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Ajaria.secret.md)
 

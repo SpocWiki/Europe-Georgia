@@ -41,15 +41,17 @@ markerFolder: ./Samegrelo-Zemo_Svaneti/
 
 ## Confidential Links & Embeds: 
 
-### [Samegrelo-Zemo_Svaneti.public](/_public/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaSamegrelo-Zemo_Svaneti.public.md) 
+### [Samegrelo-Zemo_Svaneti](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samegrelo-Zemo_Svaneti.md) 
 
-### [Samegrelo-Zemo_Svaneti.internal](/_internal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaSamegrelo-Zemo_Svaneti.internal.md) 
+### [Samegrelo-Zemo_Svaneti.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samegrelo-Zemo_Svaneti.public.md) 
 
-### [Samegrelo-Zemo_Svaneti.protect](/_protect/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaSamegrelo-Zemo_Svaneti.protect.md) 
+### [Samegrelo-Zemo_Svaneti.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samegrelo-Zemo_Svaneti.internal.md) 
 
-### [Samegrelo-Zemo_Svaneti.private](/_private/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaSamegrelo-Zemo_Svaneti.private.md) 
+### [Samegrelo-Zemo_Svaneti.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samegrelo-Zemo_Svaneti.protect.md) 
 
-### [Samegrelo-Zemo_Svaneti.personal](/_personal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaSamegrelo-Zemo_Svaneti.personal.md) 
+### [Samegrelo-Zemo_Svaneti.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samegrelo-Zemo_Svaneti.private.md) 
 
-### [Samegrelo-Zemo_Svaneti.secret](/_secret/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaSamegrelo-Zemo_Svaneti.secret.md)
+### [Samegrelo-Zemo_Svaneti.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samegrelo-Zemo_Svaneti.personal.md) 
+
+### [Samegrelo-Zemo_Svaneti.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samegrelo-Zemo_Svaneti.secret.md)
 
