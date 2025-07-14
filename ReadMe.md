@@ -39,11 +39,17 @@ Capital :: [[Regions~Georgia/Tbilisi]]
 [has_place_latitude::41.7167] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../Georgia,Europe|Georgia,Europe]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~East/Georgia.Europe.internal|Georgia.Europe.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~East/Georgia.Europe.protect|Georgia.Europe.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~East/Georgia.Europe.private|Georgia.Europe.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~East/Georgia.Europe.personal|Georgia.Europe.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~East/Georgia.Europe.secret|Georgia.Europe.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~East\Georgia,EuropeReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~East\Georgia,EuropeReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~East\Georgia,EuropeReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~East\Georgia,EuropeReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~East\Georgia,EuropeReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~East\Georgia,EuropeReadMe.secret.md)
+

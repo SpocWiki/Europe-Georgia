@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Orughety|Orughety]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Orughety.public|Orughety.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Orughety.internal|Orughety.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Orughety.protect|Orughety.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Orughety.private|Orughety.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Orughety.personal|Orughety.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Orughety.secret|Orughety.secret]] 
+
+### [Orughety.public](/_public/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Guria\CityOrughety.public.md) 
+
+### [Orughety.internal](/_internal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Guria\CityOrughety.internal.md) 
+
+### [Orughety.protect](/_protect/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Guria\CityOrughety.protect.md) 
+
+### [Orughety.private](/_private/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Guria\CityOrughety.private.md) 
+
+### [Orughety.personal](/_personal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Guria\CityOrughety.personal.md) 
+
+### [Orughety.secret](/_secret/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Guria\CityOrughety.secret.md)
+

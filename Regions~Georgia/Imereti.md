@@ -40,11 +40,16 @@ markerFolder: ./Imereti/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Imereti|Imereti]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Imereti.public|Imereti.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Imereti.internal|Imereti.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Imereti.protect|Imereti.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Imereti.private|Imereti.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Imereti.personal|Imereti.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Imereti.secret|Imereti.secret]] 
+
+### [Imereti.public](/_public/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaImereti.public.md) 
+
+### [Imereti.internal](/_internal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaImereti.internal.md) 
+
+### [Imereti.protect](/_protect/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaImereti.protect.md) 
+
+### [Imereti.private](/_private/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaImereti.private.md) 
+
+### [Imereti.personal](/_personal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaImereti.personal.md) 
+
+### [Imereti.secret](/_secret/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaImereti.secret.md)
 

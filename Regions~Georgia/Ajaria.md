@@ -40,11 +40,16 @@ markerFolder: ./Ajaria/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Ajaria|Ajaria]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Ajaria.public|Ajaria.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Ajaria.internal|Ajaria.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Ajaria.protect|Ajaria.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Ajaria.private|Ajaria.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Ajaria.personal|Ajaria.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Ajaria.secret|Ajaria.secret]] 
+
+### [Ajaria.public](/_public/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaAjaria.public.md) 
+
+### [Ajaria.internal](/_internal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaAjaria.internal.md) 
+
+### [Ajaria.protect](/_protect/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaAjaria.protect.md) 
+
+### [Ajaria.private](/_private/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaAjaria.private.md) 
+
+### [Ajaria.personal](/_personal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaAjaria.personal.md) 
+
+### [Ajaria.secret](/_secret/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaAjaria.secret.md)
 

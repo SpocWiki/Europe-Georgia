@@ -40,11 +40,16 @@ markerFolder: ./Samegrelo-Zemo_Svaneti/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti|Samegrelo-Zemo_Svaneti]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.public|Samegrelo-Zemo_Svaneti.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.internal|Samegrelo-Zemo_Svaneti.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.protect|Samegrelo-Zemo_Svaneti.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.private|Samegrelo-Zemo_Svaneti.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.personal|Samegrelo-Zemo_Svaneti.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Samegrelo-Zemo_Svaneti.secret|Samegrelo-Zemo_Svaneti.secret]] 
+
+### [Samegrelo-Zemo_Svaneti.public](/_public/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaSamegrelo-Zemo_Svaneti.public.md) 
+
+### [Samegrelo-Zemo_Svaneti.internal](/_internal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaSamegrelo-Zemo_Svaneti.internal.md) 
+
+### [Samegrelo-Zemo_Svaneti.protect](/_protect/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaSamegrelo-Zemo_Svaneti.protect.md) 
+
+### [Samegrelo-Zemo_Svaneti.private](/_private/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaSamegrelo-Zemo_Svaneti.private.md) 
+
+### [Samegrelo-Zemo_Svaneti.personal](/_personal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaSamegrelo-Zemo_Svaneti.personal.md) 
+
+### [Samegrelo-Zemo_Svaneti.secret](/_secret/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaSamegrelo-Zemo_Svaneti.secret.md)
 

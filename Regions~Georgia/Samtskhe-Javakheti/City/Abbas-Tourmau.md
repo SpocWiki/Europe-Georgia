@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Abbas-Tourmau|Abbas-Tourmau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Abbas-Tourmau.public|Abbas-Tourmau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Abbas-Tourmau.internal|Abbas-Tourmau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Abbas-Tourmau.protect|Abbas-Tourmau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Abbas-Tourmau.private|Abbas-Tourmau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Abbas-Tourmau.personal|Abbas-Tourmau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Abbas-Tourmau.secret|Abbas-Tourmau.secret]] 
+
+### [Abbas-Tourmau.public](/_public/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Samtskhe-Javakheti\CityAbbas-Tourmau.public.md) 
+
+### [Abbas-Tourmau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Samtskhe-Javakheti\CityAbbas-Tourmau.internal.md) 
+
+### [Abbas-Tourmau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Samtskhe-Javakheti\CityAbbas-Tourmau.protect.md) 
+
+### [Abbas-Tourmau.private](/_private/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Samtskhe-Javakheti\CityAbbas-Tourmau.private.md) 
+
+### [Abbas-Tourmau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Samtskhe-Javakheti\CityAbbas-Tourmau.personal.md) 
+
+### [Abbas-Tourmau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Samtskhe-Javakheti\CityAbbas-Tourmau.secret.md)
+

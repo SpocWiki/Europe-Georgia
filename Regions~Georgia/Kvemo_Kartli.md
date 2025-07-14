@@ -40,11 +40,16 @@ markerFolder: ./Kvemo_Kartli/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Kvemo_Kartli|Kvemo_Kartli]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Kvemo_Kartli.public|Kvemo_Kartli.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Kvemo_Kartli.internal|Kvemo_Kartli.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Kvemo_Kartli.protect|Kvemo_Kartli.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Kvemo_Kartli.private|Kvemo_Kartli.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Kvemo_Kartli.personal|Kvemo_Kartli.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Georgia~Europe/Counties/Kvemo_Kartli.secret|Kvemo_Kartli.secret]] 
+
+### [Kvemo_Kartli.public](/_public/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaKvemo_Kartli.public.md) 
+
+### [Kvemo_Kartli.internal](/_internal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaKvemo_Kartli.internal.md) 
+
+### [Kvemo_Kartli.protect](/_protect/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaKvemo_Kartli.protect.md) 
+
+### [Kvemo_Kartli.private](/_private/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaKvemo_Kartli.private.md) 
+
+### [Kvemo_Kartli.personal](/_personal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaKvemo_Kartli.personal.md) 
+
+### [Kvemo_Kartli.secret](/_secret/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~GeorgiaKvemo_Kartli.secret.md)
 

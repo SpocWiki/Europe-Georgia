@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Sukhumi|Sukhumi]]  
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Suchumkale.internal|Suchumkale.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Suchumkale.protect|Suchumkale.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Suchumkale.private|Suchumkale.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Suchumkale.personal|Suchumkale.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Suchumkale.secret|Suchumkale.secret]] 
+
+### [Sukhumi.public](/_public/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\AbkhaziaSukhumi.public.md) 
+
+### [Sukhumi.internal](/_internal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\AbkhaziaSukhumi.internal.md) 
+
+### [Sukhumi.protect](/_protect/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\AbkhaziaSukhumi.protect.md) 
+
+### [Sukhumi.private](/_private/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\AbkhaziaSukhumi.private.md) 
+
+### [Sukhumi.personal](/_personal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\AbkhaziaSukhumi.personal.md) 
+
+### [Sukhumi.secret](/_secret/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\AbkhaziaSukhumi.secret.md)
+

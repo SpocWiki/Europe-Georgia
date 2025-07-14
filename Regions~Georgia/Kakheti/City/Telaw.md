@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Telaw|Telaw]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Telaw.public|Telaw.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Telaw.internal|Telaw.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Telaw.protect|Telaw.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Telaw.private|Telaw.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Telaw.personal|Telaw.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Telaw.secret|Telaw.secret]] 
+
+### [Telaw.public](/_public/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Kakheti\CityTelaw.public.md) 
+
+### [Telaw.internal](/_internal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Kakheti\CityTelaw.internal.md) 
+
+### [Telaw.protect](/_protect/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Kakheti\CityTelaw.protect.md) 
+
+### [Telaw.private](/_private/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Kakheti\CityTelaw.private.md) 
+
+### [Telaw.personal](/_personal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Kakheti\CityTelaw.personal.md) 
+
+### [Telaw.secret](/_secret/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Kakheti\CityTelaw.secret.md)
+

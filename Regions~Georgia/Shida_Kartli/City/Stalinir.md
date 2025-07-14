@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Russia/City/Stalinir|Stalinir]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Russia/City/Stalinir.public|Stalinir.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Russia/City/Stalinir.internal|Stalinir.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Russia/City/Stalinir.protect|Stalinir.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Russia/City/Stalinir.private|Stalinir.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Russia/City/Stalinir.personal|Stalinir.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Russia/City/Stalinir.secret|Stalinir.secret]] 
+
+### [Stalinir.public](/_public/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Shida_Kartli\CityStalinir.public.md) 
+
+### [Stalinir.internal](/_internal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Shida_Kartli\CityStalinir.internal.md) 
+
+### [Stalinir.protect](/_protect/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Shida_Kartli\CityStalinir.protect.md) 
+
+### [Stalinir.private](/_private/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Shida_Kartli\CityStalinir.private.md) 
+
+### [Stalinir.personal](/_personal/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Shida_Kartli\CityStalinir.personal.md) 
+
+### [Stalinir.secret](/_secret/\Earth\Continent\Europe\Europe~East\Georgia,Europe\Regions~Georgia\Shida_Kartli\CityStalinir.secret.md)
+
