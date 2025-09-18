@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Mtskheta-Mtianeti
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Mtskheta-Mtianeti/
 markerFolder: ./Mtskheta-Mtianeti/

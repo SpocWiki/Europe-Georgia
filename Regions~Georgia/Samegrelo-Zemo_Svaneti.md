@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Samegrelo-Zemo_Svaneti
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Samegrelo-Zemo_Svaneti/
 markerFolder: ./Samegrelo-Zemo_Svaneti/

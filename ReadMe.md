@@ -15,7 +15,7 @@ confidential: public
 ```leaflet
 id: Georgia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: .//
 markerFolder: .//

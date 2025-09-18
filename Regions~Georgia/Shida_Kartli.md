@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Shida_Kartli
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Shida_Kartli/
 markerFolder: ./Shida_Kartli/

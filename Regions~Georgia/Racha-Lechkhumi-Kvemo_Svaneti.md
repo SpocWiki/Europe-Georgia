@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Racha-Lechkhumi-Kvemo_Svaneti
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Racha-Lechkhumi-Kvemo_Svaneti/
 markerFolder: ./Racha-Lechkhumi-Kvemo_Svaneti/

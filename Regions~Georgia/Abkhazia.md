@@ -32,7 +32,7 @@ has_id_wikidata: Q31354462
 ```leaflet
 id: Abkhazia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Abkhazia/
 markerFolder: ./Abkhazia/

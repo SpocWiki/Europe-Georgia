@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Samtskhe-Javakheti
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Samtskhe-Javakheti/
 markerFolder: ./Samtskhe-Javakheti/

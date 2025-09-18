@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Kvemo_Kartli
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Kvemo_Kartli/
 markerFolder: ./Kvemo_Kartli/
