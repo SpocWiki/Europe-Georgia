@@ -21,7 +21,7 @@ State :: kirgis]
 Country :: [[Russia]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet
