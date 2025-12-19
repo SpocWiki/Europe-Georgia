@@ -50,7 +50,7 @@ located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Kura_River,156557
 head_of_government: "[[_Standards/WikiData/WD~Kakha_Kaladze,192031]]"
 part_of: "[[_Standards/WikiData/WD~Kartli,459875]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
