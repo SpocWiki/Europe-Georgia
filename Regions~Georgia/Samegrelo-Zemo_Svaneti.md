@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Samegrelo-Zemo_Svaneti
+  - Samegrelo-Zemo Svaneti
 location:
   - 42.6
   - 42.2
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Samegrelo-Zemo_Svaneti
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Samegrelo-Zemo_Svaneti

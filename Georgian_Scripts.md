@@ -1,35 +1,37 @@
 ---
 aliases:
   - Georgian_scripts
+  - Georgian_Scripts
+  - Georgian Scripts
 has_id_wikidata: Q161428
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Khutsuri,1090055]]"
-  - "[[_Standards/WikiData/WD~Asomtavruli,2866751]]"
-  - "[[_Standards/WikiData/WD~Mkhedruli,3317411]]"
-  - "[[_Standards/WikiData/WD~Nuskhuri,3346505]]"
-  - "[[_Standards/WikiData/WD~Mtavruli,31354943]]"
-  - "[[_Standards/WikiData/WD~modern_Georgian_script,118169871]]"
+  - '[[_Standards/WikiData/WD~Khutsuri,1090055]]'
+  - '[[_Standards/WikiData/WD~Asomtavruli,2866751]]'
+  - '[[_Standards/WikiData/WD~Mkhedruli,3317411]]'
+  - '[[_Standards/WikiData/WD~Nuskhuri,3346505]]'
+  - '[[_Standards/WikiData/WD~Mtavruli,31354943]]'
+  - '[[_Standards/WikiData/WD~modern_Georgian_script,118169871]]'
 language_of_work_or_name:
-  - "[[_Standards/WikiData/WD~Laz,1160372]]"
-  - "[[_Standards/WikiData/WD~Abkhaz,5111]]"
-  - "[[_Standards/WikiData/WD~Georgian,8108]]"
-  - "[[_Standards/WikiData/WD~Mingrelian,13359]]"
-  - "[[_Standards/WikiData/WD~Ossetian,33968]]"
-  - "[[_Standards/WikiData/WD~Svan,34067]]"
-  - "[[_Standards/WikiData/WD~Judaeo_Georgian,35737]]"
+  - '[[_Standards/WikiData/WD~Laz,1160372]]'
+  - '[[_Standards/WikiData/WD~Abkhaz,5111]]'
+  - '[[_Standards/WikiData/WD~Georgian,8108]]'
+  - '[[_Standards/WikiData/WD~Mingrelian,13359]]'
+  - '[[_Standards/WikiData/WD~Ossetian,33968]]'
+  - '[[_Standards/WikiData/WD~Svan,34067]]'
+  - '[[_Standards/WikiData/WD~Judaeo_Georgian,35737]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~heritage,2434238]]"
-  - "[[_Standards/WikiData/WD~natural_writing_system,29517555]]"
-  - "[[_Standards/WikiData/WD~writing_system,8192]]"
-  - "[[_Standards/WikiData/WD~alphabet,9779]]"
+  - '[[_Standards/WikiData/WD~heritage,2434238]]'
+  - '[[_Standards/WikiData/WD~natural_writing_system,29517555]]'
+  - '[[_Standards/WikiData/WD~writing_system,8192]]'
+  - '[[_Standards/WikiData/WD~alphabet,9779]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~script_family,12775371]]"
-  - "[[_Standards/WikiData/WD~set,36161]]"
-script_directionality: "[[_Standards/WikiData/WD~left_to_right,17321844]]"
-intangible_cultural_heritage_status: "[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]"
+  - '[[_Standards/WikiData/WD~script_family,12775371]]'
+  - '[[_Standards/WikiData/WD~set,36161]]'
+script_directionality: '[[_Standards/WikiData/WD~left_to_right,17321844]]'
+intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
 inception: 0500-01-01T00:00:00Z
-country_of_origin: "[[_Standards/WikiData/WD~Georgia,230]]"
+country_of_origin: '[[_Standards/WikiData/WD~Georgia,230]]'
 described_at_URL:
   - https://ich.unesco.org/en/RL/01205
   - https://ich.unesco.org/es/RL/01205

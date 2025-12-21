@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Kvemo_Kartli
+  - Kvemo Kartli
 location:
   - 41.5
   - 44.6
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Kvemo_Kartli
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Kvemo_Kartli

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Abkhazia
+has_id_wikidata: Q31354462
 location:
   - 43
   - 41.4
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Abkhazia
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
-has_id_wikidata: Q31354462
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Abkhazia]] 

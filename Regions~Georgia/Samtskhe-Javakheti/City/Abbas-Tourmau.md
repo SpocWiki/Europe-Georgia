@@ -1,16 +1,19 @@
 ---
-location: [41.77,42.87] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Abbas-Tourmau
+location:
+  - 41.77
+  - 42.87
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 28642
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[Place]] 

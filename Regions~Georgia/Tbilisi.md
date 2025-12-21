@@ -20,94 +20,94 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 capital_of:
-  - "[[_Standards/WikiData/WD~Georgia_Imeretia_Governorate,113800]]"
-  - "[[_Standards/WikiData/WD~Georgian_Soviet_Socialist_Republic,130229]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Georgia,154667]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Kartli,195972]]"
-  - "[[_Standards/WikiData/WD~Democratic_Republic_of_Georgia,245160]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Kartli_Kakheti,282475]]"
-  - "[[_Standards/WikiData/WD~Transcaucasian_Democratic_Federative_Republic,330756]]"
-  - "[[_Standards/WikiData/WD~Transcaucasian_Socialist_Federative_Soviet_Republic,545205]]"
-  - "[[_Standards/WikiData/WD~Reichskommissariat_Kaukasien,645802]]"
-  - "[[_Standards/WikiData/WD~Emirate_of_Tbilisi,1337828]]"
-  - "[[_Standards/WikiData/WD~Tiflis_Governorate,1773517]]"
-  - "[[_Standards/WikiData/WD~Caucasus_Viceroyalty_(1801_1917),2424466]]"
-  - "[[_Standards/WikiData/WD~Republic_of_Georgia_(1990_1992),3456400]]"
-  - "[[_Standards/WikiData/WD~Q3591823,3591823]]"
-  - "[[_Standards/WikiData/WD~Military_Council,4114520]]"
-  - "[[_Standards/WikiData/WD~Q4453134,4453134]]"
-  - "[[_Standards/WikiData/WD~Tiflis_Uyezd,12864947]]"
-  - "[[_Standards/WikiData/WD~Socialist_Soviet_Republic_of_Georgia,55659450]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Iberia,19083]]"
-  - "[[_Standards/WikiData/WD~Georgia,230]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Kura_River,156557]]"
-head_of_government: "[[_Standards/WikiData/WD~Kakha_Kaladze,192031]]"
-part_of: "[[_Standards/WikiData/WD~Kartli,459875]]"
+  - '[[_Standards/WikiData/WD~Georgia_Imeretia_Governorate,113800]]'
+  - '[[_Standards/WikiData/WD~Georgian_Soviet_Socialist_Republic,130229]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Georgia,154667]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Kartli,195972]]'
+  - '[[_Standards/WikiData/WD~Democratic_Republic_of_Georgia,245160]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Kartli_Kakheti,282475]]'
+  - '[[_Standards/WikiData/WD~Transcaucasian_Democratic_Federative_Republic,330756]]'
+  - '[[_Standards/WikiData/WD~Transcaucasian_Socialist_Federative_Soviet_Republic,545205]]'
+  - '[[_Standards/WikiData/WD~Reichskommissariat_Kaukasien,645802]]'
+  - '[[_Standards/WikiData/WD~Emirate_of_Tbilisi,1337828]]'
+  - '[[_Standards/WikiData/WD~Tiflis_Governorate,1773517]]'
+  - '[[_Standards/WikiData/WD~Caucasus_Viceroyalty_(1801_1917),2424466]]'
+  - '[[_Standards/WikiData/WD~Republic_of_Georgia_(1990_1992),3456400]]'
+  - '[[_Standards/WikiData/WD~Q3591823,3591823]]'
+  - '[[_Standards/WikiData/WD~Military_Council,4114520]]'
+  - '[[_Standards/WikiData/WD~Q4453134,4453134]]'
+  - '[[_Standards/WikiData/WD~Tiflis_Uyezd,12864947]]'
+  - '[[_Standards/WikiData/WD~Socialist_Soviet_Republic_of_Georgia,55659450]]'
+  - '[[_Standards/WikiData/WD~Kingdom_of_Iberia,19083]]'
+  - '[[_Standards/WikiData/WD~Georgia,230]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Kura_River,156557]]'
+head_of_government: '[[_Standards/WikiData/WD~Kakha_Kaladze,192031]]'
+part_of: '[[_Standards/WikiData/WD~Kartli,459875]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Tbilisi,2915836]]"
-legislative_body: "[[_Standards/WikiData/WD~Tbilisi_City_Assembly,2920049]]"
-authority: "[[_Standards/WikiData/WD~Tbilisi_City_Hall,2920873]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Tbilisi,2915836]]'
+legislative_body: '[[_Standards/WikiData/WD~Tbilisi_City_Assembly,2920049]]'
+authority: '[[_Standards/WikiData/WD~Tbilisi_City_Hall,2920873]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Didube,4153222]]"
-  - "[[_Standards/WikiData/WD~Krtsanisi,4197653]]"
-  - "[[_Standards/WikiData/WD~Nadzaladevi,6691980]]"
-  - "[[_Standards/WikiData/WD~Chughureti,15966500]]"
-  - "[[_Standards/WikiData/WD~Gldani_District,24685367]]"
-  - "[[_Standards/WikiData/WD~Vake_district,37808698]]"
-  - "[[_Standards/WikiData/WD~Isani_District,37808721]]"
-  - "[[_Standards/WikiData/WD~Saburtalo_District,37808823]]"
-  - "[[_Standards/WikiData/WD~Samgori_District,37808852]]"
-  - "[[_Standards/WikiData/WD~Mtatsminda_District,65271003]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Tbilisi_history,7805941]]"
-category_for_people_buried_here: "[[_Standards/WikiData/WD~Q7978359,7978359]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Tbilisi,15057713]]"
-member_of: "[[_Standards/WikiData/WD~World_Tourism_Cities_Federation,67652870]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Tbilisi,106020253]]"
-instance_of: "[[_Standards/WikiData/WD~national_capital,108178728]]"
+  - '[[_Standards/WikiData/WD~Didube,4153222]]'
+  - '[[_Standards/WikiData/WD~Krtsanisi,4197653]]'
+  - '[[_Standards/WikiData/WD~Nadzaladevi,6691980]]'
+  - '[[_Standards/WikiData/WD~Chughureti,15966500]]'
+  - '[[_Standards/WikiData/WD~Gldani_District,24685367]]'
+  - '[[_Standards/WikiData/WD~Vake_district,37808698]]'
+  - '[[_Standards/WikiData/WD~Isani_District,37808721]]'
+  - '[[_Standards/WikiData/WD~Saburtalo_District,37808823]]'
+  - '[[_Standards/WikiData/WD~Samgori_District,37808852]]'
+  - '[[_Standards/WikiData/WD~Mtatsminda_District,65271003]]'
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_Tbilisi_history,7805941]]'
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q7978359,7978359]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Tbilisi,15057713]]'
+member_of: '[[_Standards/WikiData/WD~World_Tourism_Cities_Federation,67652870]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Tbilisi,106020253]]'
+instance_of: '[[_Standards/WikiData/WD~national_capital,108178728]]'
 coordinate_location: Point(44.7925 41.7225)
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Ljubljana,437]]"
-  - "[[_Standards/WikiData/WD~Saarbrücken,1724]]"
-  - "[[_Standards/WikiData/WD~Innsbruck,1735]]"
-  - "[[_Standards/WikiData/WD~Riga,1773]]"
-  - "[[_Standards/WikiData/WD~Odesa,1874]]"
-  - "[[_Standards/WikiData/WD~Kyiv,1899]]"
-  - "[[_Standards/WikiData/WD~Palermo,2656]]"
-  - "[[_Standards/WikiData/WD~Baku,9248]]"
-  - "[[_Standards/WikiData/WD~Chișinău,21197]]"
-  - "[[_Standards/WikiData/WD~Kraków,31487]]"
-  - "[[_Standards/WikiData/WD~Vilnius,216]]"
-  - "[[_Standards/WikiData/WD~Lviv,36036]]"
-  - "[[_Standards/WikiData/WD~Lublin,37333]]"
-  - "[[_Standards/WikiData/WD~Kharkiv,42308]]"
+  - '[[_Standards/WikiData/WD~Ljubljana,437]]'
+  - '[[_Standards/WikiData/WD~Saarbrücken,1724]]'
+  - '[[_Standards/WikiData/WD~Innsbruck,1735]]'
+  - '[[_Standards/WikiData/WD~Riga,1773]]'
+  - '[[_Standards/WikiData/WD~Odesa,1874]]'
+  - '[[_Standards/WikiData/WD~Kyiv,1899]]'
+  - '[[_Standards/WikiData/WD~Palermo,2656]]'
+  - '[[_Standards/WikiData/WD~Baku,9248]]'
+  - '[[_Standards/WikiData/WD~Chișinău,21197]]'
+  - '[[_Standards/WikiData/WD~Kraków,31487]]'
+  - '[[_Standards/WikiData/WD~Vilnius,216]]'
+  - '[[_Standards/WikiData/WD~Lviv,36036]]'
+  - '[[_Standards/WikiData/WD~Lublin,37333]]'
+  - '[[_Standards/WikiData/WD~Kharkiv,42308]]'
 official_language:
-  - "[[_Standards/WikiData/WD~Abkhaz,5111]]"
-  - "[[_Standards/WikiData/WD~Georgian,8108]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+04_00,6779]]"
+  - '[[_Standards/WikiData/WD~Abkhaz,5111]]'
+  - '[[_Standards/WikiData/WD~Georgian,8108]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+04_00,6779]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Russian,7737]]"
-  - "[[_Standards/WikiData/WD~Georgian,8108]]"
-  - "[[_Standards/WikiData/WD~Armenian,8785]]"
-  - "[[_Standards/WikiData/WD~Azerbaijani,9292]]"
-  - "[[_Standards/WikiData/WD~Kurdish,36368]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-country: "[[_Standards/WikiData/WD~Georgia,230]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Georgia,230]]"
+  - '[[_Standards/WikiData/WD~Russian,7737]]'
+  - '[[_Standards/WikiData/WD~Georgian,8108]]'
+  - '[[_Standards/WikiData/WD~Armenian,8785]]'
+  - '[[_Standards/WikiData/WD~Azerbaijani,9292]]'
+  - '[[_Standards/WikiData/WD~Kurdish,36368]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+country: '[[_Standards/WikiData/WD~Georgia,230]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Georgia,230]]'
 area: 720
 elevation_above_sea_level: 575
-local_dialing_code: "32"
+local_dialing_code: 32
 demonym:
   - тбилиска
   - тбилисцы
@@ -127,7 +127,7 @@ population: 1118035
 official_name: თბილისი
 native_label: თბილისი
 licence_plate_code: GEO
-U_S_National_Archives_Identifier: "10045740"
+U_S_National_Archives_Identifier: 10045740
 inception: 0455-01-01T00:00:00Z
 UN_LOCODE: GETBS
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20Tbilisi%2C%20Georgia.svg

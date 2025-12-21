@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Shida_Kartli
+  - Shida Kartli
 location:
   - 42.2
   - 43.9
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Shida_Kartli
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Shida_Kartli

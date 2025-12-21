@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Racha-Lechkhumi-Kvemo_Svaneti
+  - Racha-Lechkhumi-Kvemo Svaneti
 location:
   - 42.6
   - 43.1
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Racha-Lechkhumi-Kvemo_Svaneti
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Racha-Lechkhumi-Kvemo_Svaneti
