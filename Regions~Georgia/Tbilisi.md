@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 0455-01-01 
 aliases:
   - Tbilisi
 has_id_wikidata: Q994
