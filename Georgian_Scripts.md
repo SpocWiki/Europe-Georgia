@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~Georgian_scripts,161428|WD~Georgian_scripts,161428]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~Georgian_scripts,161428|WD~Georgian_scripts,161428]]"
+
 has_time_started: 0500-01-01 
 aliases:
   - Georgian_scripts
@@ -42,7 +46,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Georgian%20Mkhedruli%2
 ---
 # [[Georgian_Scripts]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Georgian_scripts,161428|WD~Georgian_scripts,161428]] 
+is_same_as = `=this.dv_is_same_as`
 ## #has_/text_of_/abstract 
 
 > The Georgian scripts are the three writing systems used to write the Georgian language: 
@@ -59,4 +63,21 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Georgian%20Mkhedruli%2
 > The "living culture of three writing systems of the Georgian alphabet" was granted the national status of intangible cultural heritage in Georgia in 2015 and inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity in 2016.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Georgian%20scripts) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Georgian_Scripts|Georgian_Scripts]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Georgian_Scripts.public|Georgian_Scripts.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Georgian_Scripts.internal|Georgian_Scripts.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Georgian_Scripts.protect|Georgian_Scripts.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Georgian_Scripts.private|Georgian_Scripts.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Georgian_Scripts.personal|Georgian_Scripts.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Georgian_Scripts.secret|Georgian_Scripts.secret]] 
 

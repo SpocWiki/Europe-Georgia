@@ -14,14 +14,20 @@ tags:
 SpocWebEntityId: 30505
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 44.12
+dv_has_place_latitude: 41.97
+dv_name: Gorio
+dv_State: kirgis]
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::44.12] 
-[has_place_latitude::41.97] 
-[name::Gorio] 
-State :: kirgis] 
-Country :: [[Russia]]  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
+State = `=this.dv_State`
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gorio](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli/City/Gorio.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli/City/Gorio|Gorio]] 
 
-### [Gorio.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli/City/Gorio.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli/City/Gorio.public|Gorio.public]] 
 
-### [Gorio.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli/City/Gorio.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli/City/Gorio.internal|Gorio.internal]] 
 
-### [Gorio.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli/City/Gorio.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli/City/Gorio.protect|Gorio.protect]] 
 
-### [Gorio.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli/City/Gorio.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli/City/Gorio.private|Gorio.private]] 
 
-### [Gorio.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli/City/Gorio.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli/City/Gorio.personal|Gorio.personal]] 
 
-### [Gorio.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli/City/Gorio.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli/City/Gorio.secret|Gorio.secret]] 
 

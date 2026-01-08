@@ -40,17 +40,17 @@ markerFolder: ./Mtskheta-Mtianeti/
 
 ## Confidential Links & Embeds: 
 
-### [Mtskheta-Mtianeti](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Mtskheta-Mtianeti.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Mtskheta-Mtianeti|Mtskheta-Mtianeti]] 
 
-### [Mtskheta-Mtianeti.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Mtskheta-Mtianeti.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Mtskheta-Mtianeti.public|Mtskheta-Mtianeti.public]] 
 
-### [Mtskheta-Mtianeti.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Mtskheta-Mtianeti.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Mtskheta-Mtianeti.internal|Mtskheta-Mtianeti.internal]] 
 
-### [Mtskheta-Mtianeti.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Mtskheta-Mtianeti.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Mtskheta-Mtianeti.protect|Mtskheta-Mtianeti.protect]] 
 
-### [Mtskheta-Mtianeti.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Mtskheta-Mtianeti.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Mtskheta-Mtianeti.private|Mtskheta-Mtianeti.private]] 
 
-### [Mtskheta-Mtianeti.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Mtskheta-Mtianeti.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Mtskheta-Mtianeti.personal|Mtskheta-Mtianeti.personal]] 
 
-### [Mtskheta-Mtianeti.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Mtskheta-Mtianeti.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Mtskheta-Mtianeti.secret|Mtskheta-Mtianeti.secret]] 
 

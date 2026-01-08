@@ -40,17 +40,17 @@ markerFolder: ./Samtskhe-Javakheti/
 
 ## Confidential Links & Embeds: 
 
-### [Samtskhe-Javakheti](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti|Samtskhe-Javakheti]] 
 
-### [Samtskhe-Javakheti.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti.public|Samtskhe-Javakheti.public]] 
 
-### [Samtskhe-Javakheti.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti.internal|Samtskhe-Javakheti.internal]] 
 
-### [Samtskhe-Javakheti.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti.protect|Samtskhe-Javakheti.protect]] 
 
-### [Samtskhe-Javakheti.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti.private|Samtskhe-Javakheti.private]] 
 
-### [Samtskhe-Javakheti.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti.personal|Samtskhe-Javakheti.personal]] 
 
-### [Samtskhe-Javakheti.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Samtskhe-Javakheti.secret|Samtskhe-Javakheti.secret]] 
 

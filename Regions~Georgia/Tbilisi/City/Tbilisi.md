@@ -14,17 +14,23 @@ tags:
 SpocWebEntityId: 35929
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 44.78333
+dv_has_place_latitude: 41.71667
+dv_name: Tbilisi
+dv_Country: "[[../../Georgia~Europe]]"
+dv_Unknown: 32
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::44.78333] 
-[has_place_latitude::41.71667] 
-[name::Tbilisi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Georgia~Europe]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
-[Unknown::32] 
+Unknown = `=this.dv_Unknown` 
 
 
 ```leaflet
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tbilisi](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi|Tbilisi]] 
 
-### [Tbilisi.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi.public|Tbilisi.public]] 
 
-### [Tbilisi.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi.internal|Tbilisi.internal]] 
 
-### [Tbilisi.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi.protect|Tbilisi.protect]] 
 
-### [Tbilisi.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi.private|Tbilisi.private]] 
 
-### [Tbilisi.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi.personal|Tbilisi.personal]] 
 
-### [Tbilisi.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi.secret|Tbilisi.secret]] 
 

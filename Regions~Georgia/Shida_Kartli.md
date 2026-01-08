@@ -41,17 +41,17 @@ markerFolder: ./Shida_Kartli/
 
 ## Confidential Links & Embeds: 
 
-### [Shida_Kartli](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli|Shida_Kartli]] 
 
-### [Shida_Kartli.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli.public|Shida_Kartli.public]] 
 
-### [Shida_Kartli.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli.internal|Shida_Kartli.internal]] 
 
-### [Shida_Kartli.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli.protect|Shida_Kartli.protect]] 
 
-### [Shida_Kartli.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli.private|Shida_Kartli.private]] 
 
-### [Shida_Kartli.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli.personal|Shida_Kartli.personal]] 
 
-### [Shida_Kartli.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Shida_Kartli.secret|Shida_Kartli.secret]] 
 

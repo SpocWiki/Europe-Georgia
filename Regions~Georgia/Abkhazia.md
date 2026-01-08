@@ -52,17 +52,17 @@ markerFolder: ./Abkhazia/
 
 ## Confidential Links & Embeds: 
 
-### [Abkhazia](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia|Abkhazia]] 
 
-### [Abkhazia.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia.public|Abkhazia.public]] 
 
-### [Abkhazia.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia.internal|Abkhazia.internal]] 
 
-### [Abkhazia.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia.protect|Abkhazia.protect]] 
 
-### [Abkhazia.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia.private|Abkhazia.private]] 
 
-### [Abkhazia.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia.personal|Abkhazia.personal]] 
 
-### [Abkhazia.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia.secret|Abkhazia.secret]] 
 

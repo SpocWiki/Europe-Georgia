@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34797
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 45.47
+dv_has_place_latitude: 41.92
+dv_name: Telaw
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::45.47] 
-[has_place_latitude::41.92] 
-[name::Telaw] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Telaw](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Kakheti/City/Telaw.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Kakheti/City/Telaw|Telaw]] 
 
-### [Telaw.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Kakheti/City/Telaw.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Kakheti/City/Telaw.public|Telaw.public]] 
 
-### [Telaw.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Kakheti/City/Telaw.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Kakheti/City/Telaw.internal|Telaw.internal]] 
 
-### [Telaw.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Kakheti/City/Telaw.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Kakheti/City/Telaw.protect|Telaw.protect]] 
 
-### [Telaw.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Kakheti/City/Telaw.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Kakheti/City/Telaw.private|Telaw.private]] 
 
-### [Telaw.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Kakheti/City/Telaw.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Kakheti/City/Telaw.personal|Telaw.personal]] 
 
-### [Telaw.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Kakheti/City/Telaw.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Kakheti/City/Telaw.secret|Telaw.secret]] 
 

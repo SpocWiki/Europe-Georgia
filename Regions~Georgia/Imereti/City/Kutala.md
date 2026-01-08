@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 31713
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 42.67
+dv_has_place_latitude: 42.27
+dv_name: Kutala
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::42.67] 
-[has_place_latitude::42.27] 
-[name::Kutala] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kutala](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Kutala.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Kutala|Kutala]] 
 
-### [Kutala.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Kutala.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Kutala.public|Kutala.public]] 
 
-### [Kutala.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Kutala.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Kutala.internal|Kutala.internal]] 
 
-### [Kutala.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Kutala.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Kutala.protect|Kutala.protect]] 
 
-### [Kutala.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Kutala.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Kutala.private|Kutala.private]] 
 
-### [Kutala.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Kutala.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Kutala.personal|Kutala.personal]] 
 
-### [Kutala.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Kutala.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Imereti/City/Kutala.secret|Kutala.secret]] 
 

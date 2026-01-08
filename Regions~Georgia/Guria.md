@@ -40,17 +40,17 @@ markerFolder: ./Guria/
 
 ## Confidential Links & Embeds: 
 
-### [Guria](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria|Guria]] 
 
-### [Guria.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria.public|Guria.public]] 
 
-### [Guria.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria.internal|Guria.internal]] 
 
-### [Guria.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria.protect|Guria.protect]] 
 
-### [Guria.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria.private|Guria.private]] 
 
-### [Guria.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria.personal|Guria.personal]] 
 
-### [Guria.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria.secret|Guria.secret]] 
 

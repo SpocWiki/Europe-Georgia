@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34654
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 41.03
+dv_has_place_latitude: 43.02
+dv_name: Sukhumi
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::41.03] 
-[has_place_latitude::43.02] 
-[name::Sukhumi] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sukhumi](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia/City/Sukhumi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia/City/Sukhumi|Sukhumi]] 
 
-### [Sukhumi.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia/City/Sukhumi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia/City/Sukhumi.public|Sukhumi.public]] 
 
-### [Sukhumi.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia/City/Sukhumi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia/City/Sukhumi.internal|Sukhumi.internal]] 
 
-### [Sukhumi.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia/City/Sukhumi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia/City/Sukhumi.protect|Sukhumi.protect]] 
 
-### [Sukhumi.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia/City/Sukhumi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia/City/Sukhumi.private|Sukhumi.private]] 
 
-### [Sukhumi.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia/City/Sukhumi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia/City/Sukhumi.personal|Sukhumi.personal]] 
 
-### [Sukhumi.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia/City/Sukhumi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Abkhazia/City/Sukhumi.secret|Sukhumi.secret]] 
 

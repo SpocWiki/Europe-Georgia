@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33150
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 42
+dv_has_place_latitude: 41.92
+dv_name: Orughety
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::42] 
-[has_place_latitude::41.92] 
-[name::Orughety] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Orughety](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria/City/Orughety.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria/City/Orughety|Orughety]] 
 
-### [Orughety.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria/City/Orughety.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria/City/Orughety.public|Orughety.public]] 
 
-### [Orughety.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria/City/Orughety.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria/City/Orughety.internal|Orughety.internal]] 
 
-### [Orughety.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria/City/Orughety.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria/City/Orughety.protect|Orughety.protect]] 
 
-### [Orughety.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria/City/Orughety.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria/City/Orughety.private|Orughety.private]] 
 
-### [Orughety.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria/City/Orughety.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria/City/Orughety.personal|Orughety.personal]] 
 
-### [Orughety.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria/City/Orughety.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Guria/City/Orughety.secret|Orughety.secret]] 
 

@@ -10,9 +10,22 @@ tags:
 SpocWebEntityId: 26901
 isDeleted: false
 confidential: public
+dv_ISO2: GE
+dv_ISO3: GEO
+dv_name-en: Georgia
+dv_name-de: Georgien
+dv_Area-Total: 69700
+dv_Area-Land: 0
+dv_Continent: "[[../../../Europe]]"
+dv_VehicleCode: GEO
+dv_Capital: "[[Regions~Georgia/Tbilisi]]"
+dv_Alcohol-l: 6.4
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: 44.7833
+dv_has_place_latitude: 41.7167
 ---
-[ISO2::GE] 
-[ISO3::GEO] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
 ```leaflet
 id: Georgia
@@ -23,37 +36,37 @@ geojsonFolder: .//
 markerFolder: .//
 ```
 
-[name-en::Georgia] 
-[name-de::Georgien] 
-[Area-Total::69700] 
-[Area-Land::0] 
-Continent :: [[Europe]]  
-[VehicleCode::GEO] 
-Capital :: [[Regions~Georgia/Tbilisi]]  
+name-en = `=this.dv_name-en` 
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+Continent = `=this.dv_Continent`
+VehicleCode = `=this.dv_VehicleCode` 
+Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Georgia.svg|350]] 
 ![[Anthem-Georgia.mp3]] 
 ![[Flag_of_Georgia.svg|350]] 
-[Alcohol-l::6.4] 
+Alcohol-l = `=this.dv_Alcohol-l` 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::44.7833] 
-[has_place_latitude::41.7167] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/ReadMe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/ReadMe|ReadMe]] 
 
-### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/ReadMe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/ReadMe.public|ReadMe.public]] 
 
-### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/ReadMe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/ReadMe.internal|ReadMe.internal]] 
 
-### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/ReadMe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/ReadMe.protect|ReadMe.protect]] 
 
-### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/ReadMe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/ReadMe.private|ReadMe.private]] 
 
-### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/ReadMe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/ReadMe.personal|ReadMe.personal]] 
 
-### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/ReadMe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/ReadMe.secret|ReadMe.secret]] 
 

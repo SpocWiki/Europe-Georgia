@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 34785
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -44.83
+dv_has_place_latitude: 41.75
+dv_name: Tbilisi=Tiflis
+dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-44.83] 
-[has_place_latitude::41.75] 
-[name::Tbilisi=Tiflis] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Russia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tbilisi=Tiflis](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi=Tiflis.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi=Tiflis|Tbilisi=Tiflis]] 
 
-### [Tbilisi=Tiflis.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi=Tiflis.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi=Tiflis.public|Tbilisi=Tiflis.public]] 
 
-### [Tbilisi=Tiflis.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi=Tiflis.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi=Tiflis.internal|Tbilisi=Tiflis.internal]] 
 
-### [Tbilisi=Tiflis.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi=Tiflis.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi=Tiflis.protect|Tbilisi=Tiflis.protect]] 
 
-### [Tbilisi=Tiflis.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi=Tiflis.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi=Tiflis.private|Tbilisi=Tiflis.private]] 
 
-### [Tbilisi=Tiflis.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi=Tiflis.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi=Tiflis.personal|Tbilisi=Tiflis.personal]] 
 
-### [Tbilisi=Tiflis.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi=Tiflis.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/Regions~Georgia/Tbilisi/City/Tbilisi=Tiflis.secret|Tbilisi=Tiflis.secret]] 
 

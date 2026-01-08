@@ -8,11 +8,14 @@ facet_of: "[[_Standards/WikiData/WD~Georgia,230]]"
 country: "[[_Standards/WikiData/WD~Georgia,230]]"
 Library_of_Congress_Classification: DK670-DK679.5
 Commons_category: History of Georgia (country)
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Georgia,238246]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Georgia,238246]]"
 ---
 
 # [[History_of_Georgia,Europe]] 
 
-#is_/same_as :: [[WD~History_of_Georgia,238246]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -50,4 +53,21 @@ Commons_category: History of Georgia (country)
 > This Western orientation led to worsening relations with Russia, culminating in the Russo-Georgian War.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Georgia%20(country)) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe/History_of_Georgia,Europe|History_of_Georgia,Europe]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe/History_of_Georgia,Europe.public|History_of_Georgia,Europe.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe/History_of_Georgia,Europe.internal|History_of_Georgia,Europe.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe/History_of_Georgia,Europe.protect|History_of_Georgia,Europe.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe/History_of_Georgia,Europe.private|History_of_Georgia,Europe.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe/History_of_Georgia,Europe.personal|History_of_Georgia,Europe.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe/History_of_Georgia,Europe.secret|History_of_Georgia,Europe.secret]] 
 
