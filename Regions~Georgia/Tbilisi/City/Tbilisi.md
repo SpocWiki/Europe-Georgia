@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 44.78333
 dv_has_place_latitude: 41.71667
-dv_name: Tbilisi
+dv_has_name_: Tbilisi
 dv_Country: "[[../../Georgia~Europe]]"
 dv_Unknown: 32
 ---

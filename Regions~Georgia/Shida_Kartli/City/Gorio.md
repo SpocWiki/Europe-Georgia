@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 44.12
 dv_has_place_latitude: 41.97
-dv_name: Gorio
+dv_has_name_: Gorio
 dv_State: kirgis]
 dv_Country: "[[../../../../Russia]]"
 ---

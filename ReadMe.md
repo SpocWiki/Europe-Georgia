@@ -12,8 +12,8 @@ isDeleted: false
 confidential: public
 dv_ISO2: GE
 dv_ISO3: GEO
-dv_name-en: Georgia
-dv_name-de: Georgien
+dv_has_name_en: Georgia
+dv_has_name_de: Georgien
 dv_Area-Total: 69700
 dv_Area-Land: 0
 dv_Continent: "[[../../../Europe]]"
@@ -36,8 +36,8 @@ geojsonFolder: .//
 markerFolder: .//
 ```
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

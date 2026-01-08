@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 42.67
 dv_has_place_latitude: 42.27
-dv_name: Kutala
+dv_has_name_: Kutala
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  

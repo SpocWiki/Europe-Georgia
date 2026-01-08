@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 42.641
 dv_has_place_latitude: 42.15
-dv_name: Poti
+dv_has_name_: Poti
 dv_Country: "[[../../../../Russia]]"
 ---
 #is_a_/Place  
