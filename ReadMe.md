@@ -3,7 +3,7 @@ dv_ISO2: GE
 dv_ISO3: GEO
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Georgia,230|WD~Georgia,230]]'
+  - '[[../../../../../WikiData/WD~Georgia,230|WD~Georgia,230]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe|Georgia,Europe]]'
   - '[[/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe.public|Georgia,Europe.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe.internal|Georgia,Europe.internal]]'
@@ -333,15 +333,15 @@ dv_has_name_en: Georgia
 dv_has_name_de: Georgien
 dv_Area-Total: 69700
 dv_Area-Land: 0
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: GEO
-dv_Capital: '[[Georgia,Europe/Regions~Georgia/Tbilisi|Tbilisi]]]'
+dv_Capital: '[[Regions~Georgia/Tbilisi|Tbilisi]]]'
 dv_Alcohol-l: 6.4
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 44.7833
 dv_has_place_latitude: 41.7167
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Georgia,230|WD~Georgia,230]]'
+- '[[../../../../../WikiData/WD~Georgia,230|WD~Georgia,230]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe|Georgia,Europe]]'
 - '[[/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe.public|Georgia,Europe.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe.internal|Georgia,Europe.internal]]'
@@ -527,7 +527,7 @@ isDeleted: false
 confidential: public
 icon: flag-ge
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]'
 - '[[/_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773|WD~World_Intellectual_Property_Organization,177773]]'
 - '[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
@@ -720,7 +720,7 @@ history_of_topic: '[[/_Standards/WikiData/WD~History_of_Georgia,238246|WD~Histor
 head_of_state: '[[/_Standards/WikiData/WD~Salome_Zourabichvili,272416|WD~Salome_Zourabichvili,272416]]'
 economy_of_topic: '[[/_Standards/WikiData/WD~economy_of_Georgia,282182|WD~economy_of_Georgia,282182]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
 - '[[/_Standards/WikiData/WD~New_History_of_Yuan,1053256|WD~New_History_of_Yuan,1053256]]'
@@ -944,7 +944,7 @@ is_a = `=this.dv_is_a_`
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
-[[Georgia,Europe/ReadMe|ReadMe]]] 
+[[ReadMe|ReadMe]]] 
 
 ## #has_/map  
 
@@ -964,7 +964,7 @@ markerFile: [[Georgia,Europe]]
 
 ```leaflet
 id: Georgia,Europe_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -990,7 +990,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Georgia.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Georgia.mp3|Anthem-Georgia.mp3]]![[Georgia,Europe/Flag_of_Georgia.svg|350]]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Georgia.mp3|Anthem-Georgia.mp3]]![[Flag_of_Georgia.svg|350]]]
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
 
